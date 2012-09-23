@@ -1,0 +1,6 @@
+@relation IDmatchName
+
+@attribute filename numeric
+@attribute text string
+
+@data

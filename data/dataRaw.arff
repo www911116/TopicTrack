@@ -1,0 +1,6 @@
+@relation _home_derek_workspace_java_TopicTrack_._content_segmented_dir-weka.filters.unsupervised.attribute.Remove-Rlast
+
+@attribute filename numeric
+@attribute text string
+
+@data
